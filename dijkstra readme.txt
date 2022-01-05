@@ -1,7 +1,9 @@
+运行： python3 dj.py
+
 dijkstra算法：
  
 参考的是下面的网址
-https://www.cnblogs.com/goldsunshine/p/12978305.html
+https://www.cnblogs.com/goldsunshine/p/12978305.html 
 
 说明： 上面的网址描述的很清楚，算法也很清楚，但个人觉得，一般人还是需要思考下，这样的算法是怎么来的，正确吗, 用在什么地方呢，所以写了下面的文档，供参考。
 
